@@ -1,6 +1,0 @@
-Created new repository with auto README. 
-Added question.txt and random.txt to my repo.
-Forked intern-bootcamp-git repo and signed off on attendees.txt
-on separate branch "feature". 
-Created pull request to master branch and turning in my repo now.
-Forked repo: https://github.com/Sachin04t/intern-bootcamp-git.git 
